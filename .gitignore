@@ -1,0 +1,4 @@
+environments/*.*
+*/*.terraform
+*/*.terraform*
+*/*.zip
